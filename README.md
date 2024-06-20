@@ -19,3 +19,9 @@ Type `\variable`, `\constraint` or `\objective` to let the AI do its magic.
 ## Getting Started
 
 You can try out Optexity Copilot (beta) for free. You can use it in python file and notebooks.
+
+1. Download [VS Code](https://code.visualstudio.com/download).
+
+2. Install the extension. You can install it through VS Code (see [steps](https://code.visualstudio.com/docs/editor/extension-marketplace)) or through [marketplace](https://marketplace.visualstudio.com/items?itemName=Optexity.optexitycopilot).
+
+3. To use the extension, open any .py or .ipynb file in VS Code and type `\variable`, `\constraint` or `\objective` and follow on-screen step to generate code.
