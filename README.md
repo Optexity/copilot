@@ -16,6 +16,16 @@ Type `\variable`, `\constraint` or `\objective` to let the AI do its magic.
 
 </div>
 
+<div align="center">
+
+## Easily Analyse/visualise your logs to tune hyperparameters
+
+![understand](https://www.optexity.com/copilot_log.gif)
+
+Click on three dots and let the AI do analysis.
+
+</div>
+
 ## Getting Started
 
 You can try out Optexity Copilot (beta) for free. You can use it in python file and notebooks.
